@@ -1,0 +1,4 @@
+flask>=3.0.0
+pillow>=10.0.0
+rembg[cpu]>=2.0.50
+gunicorn>=21.2.0
